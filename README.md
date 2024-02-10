@@ -1,4 +1,4 @@
-![logo](https://github.com/vasudholakiya16/vasudholakiya16-/blob/main/Banner.jpg)
+![logo](https://github.com/vasudholakiya16/vasudholakiya16/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Vasu Dholakiya</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
